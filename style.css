@@ -1,0 +1,23 @@
+.button {
+    background-color:#00ccff;
+    padding:15px 32px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:70px;
+    border:2px solid black;
+}
+.button:hover{
+    background-color:#fff;
+
+}
+.button:hover{
+      background-color: #00CCFF;
+      -webkit-transform: rotateZ(-45deg);
+      -ms-transform: rotateZ(-45deg);
+      transform: rotateZ(-45deg);
+      opacity: 0.4;
+   .button:active{
+      background-color: #00CCFF;
+      padding-top: 12px;
+   }
